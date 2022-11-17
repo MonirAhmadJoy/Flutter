@@ -1,6 +1,6 @@
 ## **Flutter_application_1**
 
-_A Flutter project as a part of software engineering course._
+_A Flutter project as a part of Software Engineering and Design Pattern Lab course._
 
 ## Getting Started
 
